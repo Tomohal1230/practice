@@ -1,0 +1,2 @@
+SELECT price, stock, proce * stock
+FROM books;
